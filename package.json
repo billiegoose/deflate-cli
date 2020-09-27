@@ -1,0 +1,26 @@
+{
+  "name": "deflate-cli",
+  "version": "1.0.0",
+  "description": "A CLI utility for compressing streams with `deflate` algorithm",
+  "bin": {
+    "deflate": "deflate.js"
+  },
+  "keywords": [
+    "deflate",
+    "cli"
+  ],
+  "author": "William Hilton <wmhilton@gmail.com>",
+  "license": "MIT",
+  "main": "deflate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmhilton/deflate-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmhilton/deflate-cli/issues"
+  },
+  "homepage": "https://github.com/wmhilton/deflate-cli#readme"
+}
